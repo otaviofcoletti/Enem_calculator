@@ -5,7 +5,7 @@ Last year I was studying for the entrance exams of brazilian universities and on
 
 First of all, you need to take your grades in the INEP website
 
-[image]https://user-images.githubusercontent.com/65844604/136717077-346a105c-4bbc-4f58-a06c-470db178142e.png
+![image]https://user-images.githubusercontent.com/65844604/136717077-346a105c-4bbc-4f58-a06c-470db178142e.png
 
 After this, you must create a txt file called "notas_enem.txt" in the same folder that you put the code, don´t forget to keep this extension. In this file you put your grades like this:
 
