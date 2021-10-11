@@ -17,6 +17,7 @@ Put them and you grade is there
 ![alt text](https://user-images.githubusercontent.com/65844604/136717135-9b6bf4b7-7de5-4968-beba-5f921aa286a6.png)
 
 After this the code will ask if you want to save :
+
 ![alt text](https://user-images.githubusercontent.com/65844604/136717164-ee3cb23e-5a24-417f-9c10-07923f91365e.png)
 
 If the answer is "yes" put a letter 's' and write a description about this grade.
