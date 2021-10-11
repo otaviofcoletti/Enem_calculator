@@ -5,11 +5,11 @@ Last year I was studying for the entrance exams of brazilian universities and on
 
 First of all, you need to take your grades in the INEP website
 
-![image]https://user-images.githubusercontent.com/65844604/136717077-346a105c-4bbc-4f58-a06c-470db178142e.png
+![alt text](https://user-images.githubusercontent.com/65844604/136717077-346a105c-4bbc-4f58-a06c-470db178142e.png)
 
 After this, you must create a txt file called "notas_enem.txt" in the same folder that you put the code, don´t forget to keep this extension. In this file you put your grades like this:
 
-https://user-images.githubusercontent.com/65844604/136717010-07f0e43e-3d45-4f55-b89c-b4669b3f3740.png
+(https://user-images.githubusercontent.com/65844604/136717010-07f0e43e-3d45-4f55-b89c-b4669b3f3740.png)
 
 Now you can run the code, the code will ask the weights of the course that you deserve, you can find it in the university website.
 Put them and you grade is there
